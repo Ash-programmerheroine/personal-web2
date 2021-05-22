@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    
+}
+body{
+   
+    font-family: 'Roboto', sans-serif;
+    color:#363958;
+}
+.container{
+ margin:0 auto;
+ width:1200px;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+li {
+    float: right;
+  }
+nav li a {
+    display: block;
+    color:#3E3E3E;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+}
+.name-color{
+     color:#FF8367;
+
+}
+p{
+   font-size: 16px ; 
+   color: #3E3E3E;
+}
+.button-link{
+    padding: 12px 43px;
+    color: white;
+    background: #FF8063;
+    border:none;
+    border-radius: 2px;
+}
